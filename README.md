@@ -10,5 +10,5 @@ python3 manage.py migrate
 python3 manage.py runserver 8042
 ```
 
-Then open http://localhost:8042/``
+Then open http://localhost:8042/
 
